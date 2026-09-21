@@ -31,6 +31,15 @@
       "url": "https://www.youtube.com/watch?v=uxmxW0WrPgs&t=7s"
     },
 
+                {
+      "id": "Script",
+      "title": "OX Inventory Redesign",
+      "description": "OX Inventory Redesign",
+      "duration": "31",
+      "thumbnail": "https://i.ytimg.com/vi/E-lfd1T4sMM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=E-lfd1T4sMM"
+    }
+
   ],
   "extras": [
   {
@@ -46,15 +55,5 @@
     "url": "https://github.com/Jay-qb77x/777-launcher-content/releases/download/files/glock_attach.zip",
     "sha256": "e28ff731aabd5006e428b0e8714bd884cc3ddced32ebe54c858dbcb4594659a5"
   }
-
-            {
-      "id": "Script",
-      "title": "OX Inventory Redesign",
-      "description": "OX Inventory Redesign",
-      "duration": "31",
-      "thumbnail": "https://i.ytimg.com/vi/E-lfd1T4sMM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=E-lfd1T4sMM"
-    }
-    
   ]
 }
