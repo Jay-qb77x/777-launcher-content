@@ -32,18 +32,41 @@
     }
   ],
   "extras": [
+  {
+    "id": "glock-attach",
+    "name": "Glock ",
+    "category": "Models",
+    "description": "Glock model",
+    "version": "1",
+    "size": 2.68,
+    "date": "2026-09-20",
+    "thumbnail": "",
+    "fileName": "glock_attach.zip",
+    "url": "https://github.com/Jay-qb77x/777-launcher-content/releases/download/files/glock_attach.zip",
+    "sha256": "e28ff731aabd5006e428b0e8714bd884cc3ddced32ebe54c858dbcb4594659a5"
+  },
     {
-      "id": "glock-attach",
-      "name": "Glock Attachments",
-      "category": "Models",
-      "description": "Attachment models for your Glock, ready to drop into your scene.",
+      "id": "glass-colors",
+      "name": "Glass Colors",
+      "category": "Textures",
+      "description": "Tinted glass textures in a range of colors.",
       "version": "1",
-      "size": 2810000,
-      "date": "2026-09-20",
+      "size": 3000000,
+      "date": "2026-02-10",
       "thumbnail": "",
-      "fileName": "glock_attach.zip",
-      "url": "https://github.com/Jay-qb77x/777-launcher-content/releases/download/files/glock_attach.zip",
-      "sha256": "e28ff731aabd5006e428b0e8714bd884cc3ddced32ebe54c858dbcb4594659a5"
+      "fileName": "glass-colors.zip",
+      "url": "https://github.com/Jay-qb77x/777-launcher-content/releases/download/files/glass-colors.zip",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  ],
+"Script Videos": [
+    {
+      "id": "fivem-weapon-glow-blender",
+      "title": "How to make a gun glow",
+      "description": "How To Make FiveM Weapons Glow In Blender",
+      "duration": "2:50",
+      "thumbnail": "https://i.ytimg.com/vi/uxmxW0WrPgs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=uxmxW0WrPgs&t=7s"
     }
   ]
 }
